@@ -1,2 +1,2 @@
-# rn-boilerplate
+# React Native Boilerplate
 A simple boilerplate for React Native with settings of ESLint, EditorConfig, Reactotron, React DevTools and Babel Module Resolve already configured.
